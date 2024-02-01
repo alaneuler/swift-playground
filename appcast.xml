@@ -9,6 +9,15 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/alaneuler/swift-playground/releases/download/v1.0/aSlider.zip" length="1087447" type="application/octet-stream"/>
+            <description><![CDATA[
+            <h2>New Features</h2>
+            <ul>
+                <li>First feature</li>
+                <li>Second feature</li>
+                <li>Third feature</li>
+            </ul>
+            ]]>
+            </description>
         </item>
     </channel>
 </rss>
